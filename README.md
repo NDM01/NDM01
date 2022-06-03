@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil!
+## Welcom to my profile!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NDM01&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 <div align="center">
   <a href="https://github.com/NDM01">
@@ -19,7 +19,7 @@
 
 </div>
   
-  ## Contactos
+  ## Contacts
  
 <div> 
   <!-- <a href="https://instagram.com/NDM01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->

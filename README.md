@@ -1,4 +1,4 @@
-## Welcom to my profile!
+## Welcome to my profile!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NDM01&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 <div align="center">
   <a href="https://github.com/NDM01">

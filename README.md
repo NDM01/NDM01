@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/NDM01">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergi0pereira&show_icons=true&locale=en"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NDM01&show_icons=true&locale=en"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NDM01&show_icons=true&locale=en&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>

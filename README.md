@@ -1,11 +1,11 @@
 ## Bem-vindo ao meu perfil!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NDM01&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 <div align="center">
   <a href="https://github.com/NDM01">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NDM01&show_icons=true&locale=en"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NDM01&show_icons=true&locale=en&layout=compact"/>
   
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NDM01&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->

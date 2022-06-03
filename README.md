@@ -1,10 +1,8 @@
 ## Bem-vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/NDM01">
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NDM01&show_icons=true&theme=whitegit&include_all_commits=true&count_private=true"/> -->
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sergi0pereira&show_icons=true&locale=en"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NDM01&show_icons=true&locale=en&layout=compact"/>
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDM01&layout=compact&langs_count=7&theme=white"/> -->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +24,7 @@
   <a href="https://www.twitch.tv/NDM01i" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:2004ndof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/nelson-fran%C3%A7a-a2a79b230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a> 
  
   <!-- ![Snake animation](https://github.com/NDM01/NDM01/blob/output/github-contribution-grid-snake.svg) -->
  

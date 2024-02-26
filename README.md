@@ -4,7 +4,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=40&center=true&vCenter=true&width=1000&lines=Welcome,+to+my+profile!+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=40&center=true&vCenter=true&width=1000&lines=Welcome,+to+my+profile!!)](https://git.io/typing-svg)
 
 <!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andresousadotpt&show_icons=true&count_private=true&hide_border=true&title_color=CF0A0A&icon_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
@@ -21,6 +21,7 @@
 
 <div align="center"> 
    <a href="mailto:2004ndof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <a href="https://www.linkedin.com/in/nelson-fran%C3%A7a-a2a79b230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a> 
  </div>
   
   ### Tech Stack:
@@ -45,13 +46,13 @@
   ### CI/CD and Analytics/Monitoring:
 <div style="display: inline_block">
   <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img align="center" title="kubernetes" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
-  <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <!-- <img align="center" title="kubernetes" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/> -->
+  <!-- <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> -->
   <img align="center" title="jenkins" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <img align="center" title="aws" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />        
+  <!-- <img align="center" title="aws" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />        
   <img align="center" title="grafana" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img align="center" title="prometheus" alt="prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-  <img align="center" title="elastic stack" alt="elastic stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" />
+  <img align="center" title="elastic stack" alt="elastic stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" /> -->
 
 
 </div>
@@ -65,7 +66,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{andresousadotpt}/count.svg" /></p> 
+<!-- <p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{andresousadotpt}/count.svg" /></p>  -->
 <br>
 </div>
   

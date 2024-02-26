@@ -11,12 +11,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDM01&layout=compact&hide_border=true&title_color=FFFF00&text_color=F0F8FF&bg_color=0d1117" />
 </div>
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NDM01&show_icons=true&count_private=true&hide_border=true&title_color=F0E68C&icon_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDM01&layout=compact&hide_border=true&title_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" />
-</div> -->
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NDM01&bg_color=0d1117&color=FFFF00&line=FFFF00&point=FFFF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
@@ -25,16 +19,21 @@
 
 </div>
   
-  ### Tech Stack:
+  ### Programming Languages:
 <div style="display: inline_block">
-  <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  
   <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" title="java" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" title="python" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="csharp" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="php" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
+</div>
+
+ ### Frontend Development:
+<div style="display: inline_block">
+ <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> 
+ <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 
   ### Database Tools:
@@ -54,12 +53,4 @@
 
   <img align="center" title="postman" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 
-<!-- </div>
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{NDM01}/count.svg" /></p> 
-<br>
-</div> -->
-  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>

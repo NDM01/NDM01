@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
           
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0E68C&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffee03&height=120&section=header"/>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF0A0A&size=40&center=true&vCenter=true&width=1000&lines=Hey🙋‍♂️,+I+am+André+Sousa;A+Back-end+Developer👨‍💻;I'm+from+Porto+Portugal🌍;Welcome,+to+my+profile!+😊)](https://git.io/typing-svg) -->
 

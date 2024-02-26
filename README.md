@@ -35,8 +35,7 @@
 
   ### Database Tools:
 <div style="display: inline_block">
-  
-  <img align="center" title="SQL Server" alt="SQL Server" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_SQL_Server_Logo.svg/1024px-Microsoft_SQL_Server_Logo.svg.png"/>
+  <img align="center" title="mysql" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 </div>
 
 </div>

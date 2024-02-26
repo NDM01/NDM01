@@ -35,7 +35,8 @@
 
   ### Database Tools:
 <div style="display: inline_block">
-  <img align="center" title="mysql" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
   <!-- <img align="center" title="SQL Server" alt="SQL Server" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_SQL_Server_Logo.svg/1024px-Microsoft_SQL_Server_Logo.svg.png"/> -->
 </div>
 

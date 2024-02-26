@@ -1,31 +1,71 @@
-# Welcome to my profile!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NDM01&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
-<div align="center">
-  <a href="https://github.com/NDM01">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NDM01&show_icons=true&locale=en"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=NDM01&show_icons=true&locale=en&layout=compact"/>
-   
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <!-- <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+          
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0E68C&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CF0A0A&size=40&center=true&vCenter=true&width=1000&lines=Hey🙋‍♂️,+I+am+André+Sousa;A+Back-end+Developer👨‍💻;I'm+from+Porto+Portugal🌍;Welcome,+to+my+profile!+😊)](https://git.io/typing-svg)
+
+<!-- <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andresousadotpt&show_icons=true&count_private=true&hide_border=true&title_color=CF0A0A&icon_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousadotpt&layout=compact&hide_border=true&title_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" />
+</div> -->
+
+<!-- <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andresousadotpt&show_icons=true&count_private=true&hide_border=true&title_color=F0E68C&icon_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousadotpt&layout=compact&hide_border=true&title_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" />
+</div> -->
+
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andresousadotpt&bg_color=0d1117&color=cf0a0a&line=cf0a0a&point=cf0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<div align="center"> 
+   <a href="mailto:2004ndof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </div>
+  
+  ### Tech Stack:
+<div style="display: inline_block">
+  <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" title="java" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" title="python" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" title="csharp" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" title="php" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </div>
-  
-  ## Contacts
- 
- <div> 
-  <!-- <a href="https://instagram.com/NDM01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
-  <a href = "mailto:2004ndof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nelson-fran%C3%A7a-a2a79b230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a> 
- 
-  <!-- ![Snake animation](https://github.com/NDM01/NDM01/blob/output/github-contribution-grid-snake.svg) -->
- 
+
+  ### Database Tools:
+<div style="display: inline_block">
+  <img align="center" title="mysql" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <!-- <img align="center" title="postgresql" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original1.svg"/> -->
+  <!-- <img align="center" title="mongoDB" alt="mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> -->
 </div>
+
+  ### CI/CD and Analytics/Monitoring:
+<div style="display: inline_block">
+  <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" title="kubernetes" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+  <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img align="center" title="jenkins" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+  <img align="center" title="aws" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />        
+  <img align="center" title="grafana" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+  <img align="center" title="prometheus" alt="prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+  <img align="center" title="elastic stack" alt="elastic stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" />
+
+
+</div>
+
+  ### IDEs and Tools:
+<div style="display: inline_block">
+  <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+  <img align="center" title="intellijidea" alt="intellijidea" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"/>
+  <img align="center" title="postman" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+</div>
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{andresousadotpt}/count.svg" /></p> 
+<br>
+</div>
+  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF0A0A&height=120&section=footer"/>

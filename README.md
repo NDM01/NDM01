@@ -35,9 +35,8 @@
 
   ### Database Tools:
 <div style="display: inline_block">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <!-- <img align="center" title="SQL Server" alt="SQL Server" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_SQL_Server_Logo.svg/1024px-Microsoft_SQL_Server_Logo.svg.png"/> -->
+  
+  <img align="center" title="SQL Server" alt="SQL Server" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_SQL_Server_Logo.svg/1024px-Microsoft_SQL_Server_Logo.svg.png"/>
 </div>
 
 </div>
@@ -47,7 +46,7 @@
   <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
   <img align="center" title="intellijidea" alt="intellijidea" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"/>
   <img align="center" title="PyCharm" alt="PyCharm" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>
-  <img align="center" title="DataGrip" alt="DataGrip" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DataGrip_Icon.svg/1200px-DataGrip_Icon.svg.png"/>
+  <img align="center" title="DataGrip" alt="DataGrip" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg"/>
 
   <img align="center" title="postman" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 

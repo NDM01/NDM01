@@ -47,7 +47,8 @@
   <img align="center" title="intellijidea" alt="intellijidea" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"/>
   <img align="center" title="PyCharm" alt="PyCharm" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>
   <img align="center" title="DataGrip" alt="DataGrip" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg"/>
-
+  <img align="center" title="Rider" alt="Rider" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg"/>
+  <img align="center" title="PhpStorm" alt="PhpStorm" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg">
   <img align="center" title="postman" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>

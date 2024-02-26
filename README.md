@@ -21,7 +21,8 @@
 
 <div align="center"> 
    <a href="mailto:2004ndof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   <a href="https://www.linkedin.com/in/nelson-fran%C3%A7a-a2a79b230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5style=for-the-badge&logo=linkedin& logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/nelson-fran%C3%A7a-a2a79b230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5;style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
  </div>
   
   ### Tech Stack:
@@ -42,18 +43,6 @@
   <!-- <img align="center" title="postgresql" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original1.svg"/> -->
   <!-- <img align="center" title="mongoDB" alt="mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> -->
 </div>
-
-  ### CI/CD and Analytics/Monitoring:
-<div style="display: inline_block">
-  <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <!-- <img align="center" title="kubernetes" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/> -->
-  <!-- <img align="center" title="terraform" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /> -->
-  <img align="center" title="jenkins" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-  <!-- <img align="center" title="aws" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />        
-  <img align="center" title="grafana" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-  <img align="center" title="prometheus" alt="prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-  <img align="center" title="elastic stack" alt="elastic stack" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" /> -->
-
 
 </div>
 

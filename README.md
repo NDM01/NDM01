@@ -20,10 +20,8 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andresousadotpt&bg_color=0d1117&color=cf0a0a&line=cf0a0a&point=cf0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center"> 
-   <a href="mailto:2004ndof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   <a href="https://www.linkedin.com/in/nelson-fran%C3%A7a-a2a79b230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5;style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
- </div>
+   <a href="mailto:2004ndof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+</div>
   
   ### Tech Stack:
 <div style="display: inline_block">
@@ -40,8 +38,7 @@
   ### Database Tools:
 <div style="display: inline_block">
   <img align="center" title="mysql" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <!-- <img align="center" title="postgresql" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original1.svg"/> -->
-  <!-- <img align="center" title="mongoDB" alt="mongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> -->
+  <img align="center" title="SQL Server" alt="SQL Server" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_SQL_Server_Logo.svg/1024px-Microsoft_SQL_Server_Logo.svg.png"/>
 </div>
 
 </div>

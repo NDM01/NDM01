@@ -6,18 +6,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=40&center=true&vCenter=true&width=1000&lines=Welcome,+to+my+profile!!)](https://git.io/typing-svg)
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andresousadotpt&show_icons=true&count_private=true&hide_border=true&title_color=CF0A0A&icon_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousadotpt&layout=compact&hide_border=true&title_color=CF0A0A&text_color=F0F8FF&bg_color=0d1117" />
-</div> -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NDM01&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=FFFF00&text_color=F0F8FF&bg_color=0d1117" alt="Daniel França stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDM01&layout=compact&hide_border=true&title_color=FFFF00&text_color=F0F8FF&bg_color=0d1117" />
+</div>
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andresousadotpt&show_icons=true&count_private=true&hide_border=true&title_color=F0E68C&icon_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresousadotpt&layout=compact&hide_border=true&title_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" />
-</div> -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NDM01&show_icons=true&count_private=true&hide_border=true&title_color=F0E68C&icon_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" alt="André Sousa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDM01&layout=compact&hide_border=true&title_color=F0E68C&text_color=F0F8FF&bg_color=0d1117" />
+</div>
 
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andresousadotpt&bg_color=0d1117&color=cf0a0a&line=cf0a0a&point=cf0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NDM01&bg_color=0d1117&color=FFFF00&line=FFFF00&point=FFFF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
    <a href="mailto:2004ndof@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
@@ -54,12 +54,12 @@
 
   <img align="center" title="postman" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 
-</div>
+<!-- </div>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{NDM01}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>

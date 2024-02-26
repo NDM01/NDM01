@@ -50,16 +50,16 @@
 <div style="display: inline_block">
   <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
   <img align="center" title="intellijidea" alt="intellijidea" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016"/>
-
   <img align="center" title="PyCharm" alt="PyCharm" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>
-  
+  <img align="center" title="DataGrip" alt="DataGrip" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DataGrip_Icon.svg/512px-DataGrip_Icon.svg.png"/>
+  <img align="center" title="Notepad++" alt="Notepad++" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Notepad%2B%2B_Logo.svg/512px-Notepad%2B%2B_Logo.svg.png"/>
   <img align="center" title="postman" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
 
 </div>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<!-- <p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{andresousadotpt}/count.svg" /></p>  -->
+<p align="center"><img align="center" alt= "Aguarde" src="https://profile-counter.glitch.me/{NDM01}/count.svg" /></p> 
 <br>
 </div>
   
